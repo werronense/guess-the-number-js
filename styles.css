@@ -10,6 +10,15 @@ body {
 }
 
 .lastResult {
+  background-color: white;
   color: white;
-  padding: 3px;
+  padding: 10px;
+}
+
+p.incorrect {
+  background-color: #ff003c;
+}
+
+p.correct {
+  background-color: #bada55;
 }
